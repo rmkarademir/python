@@ -1,4 +1,6 @@
 # python
+<h2>patika.dev - Python Temel eğitimi - Bitirme Projesi</h2>
+
 
 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
 
